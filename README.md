@@ -76,3 +76,10 @@ npx cypress open
 
 
 ## Attachment
+
+
+https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/77297918-811d-4b0c-93ce-953d2dbd1349
+
+
+https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/567cd72e-1f5f-48fd-b553-2339011ca715
+
