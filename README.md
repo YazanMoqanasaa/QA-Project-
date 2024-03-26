@@ -106,6 +106,12 @@ https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/567cd72e-1f5f-48f
   -The number of test cases Failed: 3
   -Pass percentage: 81%
   -Fail percentage: 19%
+## Automation 
+  - The number of test cases executed: It represents the total number of test cases executed in both FeadBakc.cy.js and Search.cy.js, which is 13 + 8 = 21. The number 13 represents the number of test cases executed in the FeadBakc.cy.js file, while the number 8 represents the number of test cases executed in the Search.cy.js file.
+  - The number of test cases passed: It's the total number of test cases that passed, which is 21.
+  - The number of test cases failed: There were no failed test cases, so the number is 0.
+  - Pass percentage: 100%, as all test cases were passed successfully.
+  - Fail percentage: 0%, as there were no failed test cases.
   
 
 ## Team Member 
