@@ -12,12 +12,12 @@ This repository contains a Cypress test suite to test the feedback form and sear
 ## Installation
 
 To run the tests locally, you need to have Node.js and npm installed. Then, install Cypress using the following command:
-```bash
+  ```bash
 
-npm init -y
+  npm init -y
 
-npm install cypress --save-dev
-```bash
+  npm install cypress --save-dev
+ 
 ## Dependencies
 
 - Node.js
