@@ -17,8 +17,8 @@ To run the tests locally, you need to have Node.js and npm installed. Then, inst
   npm init -y
 
   npm install cypress --save-dev
- 
-## Dependencies
+ ```
+ ## Dependencies
 
 - Node.js
 - Cypress
@@ -26,9 +26,9 @@ To run the tests locally, you need to have Node.js and npm installed. Then, inst
 ## Running Tests
 
 To run the tests, execute the following command :
-
+ ```bash
 npx cypress open
-
+```
 
 
 
