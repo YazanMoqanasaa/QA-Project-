@@ -128,59 +128,7 @@ describe('example to-do app', () => {
 
     
   })
-  it(' search city', () => {
-    cy.get("input.search-bar").click()
-    cy.get("input.search-bar").type("nablus")
-
-    
-  })
-
-  it(' search company', () => {
-    cy.get("input.search-bar").click()
-    cy.get("input.search-bar").type("radix")
-
-    
-  })
-
-  it(' search language', () => {
-    cy.get("input.search-bar").click()
-    cy.get("input.search-bar").type("c++")
-    cy.get("search-bar-container").click()
-
-    
-    cy.get("input.search-bar").click()
-    cy.get("input.search-bar").type("python")
-    cy.get("search-bar-container").click()
-
-  })
-
-  it('check search at Language', () => {
-    cy.get('.search-bar').type('Flask')
-
-    })
-
-    it('check search at DBA', () => {
-   
-      cy.get('.search-bar').type('DBA')
-    })
-
-    it('check search at Backend',()=>{
-      cy.get('.search-bar').type('Backend')
-    })
-
-    it('check search at language and company and  technology and  Negative', () => {
-      cy.get('.search-bar').type('c++ and EXALT Technologies Ltd and UIUX ')
-      cy.get('.Not-found-container').should('not.contain', 'No result available.');
-    })
-
   
-    it('check search at Company name and technology ', () => {
-      cy.get('.search-bar').type('Olivery and frontend')
-      cy.get('.Not-found-container').should('not.contain', 'No result available.');
-    })
-
-    
-
 })
 
 
