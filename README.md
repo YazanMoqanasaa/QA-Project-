@@ -84,3 +84,9 @@ https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/77297918-811d-4b0
 
 https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/567cd72e-1f5f-48fd-b553-2339011ca715
 
+
+## Team Member 
+1-Yazan moqanasa
+2-marah saadeh
+3-hadeel amr
+
