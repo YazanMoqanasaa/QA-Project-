@@ -74,3 +74,5 @@ To run the tests, execute the following command :
 npx cypress open
 ```
 
+
+## Attachment
