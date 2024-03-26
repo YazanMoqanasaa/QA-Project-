@@ -7,7 +7,7 @@ Our pages test path => QA-Project-/cypress/e2e/
 
 # Cypress Test Suite for StacksInfo Website
 
-This repository contains a Cypress test suite to test the feedback form and search functionality on the StacksInfo website.
+This repository contains a Cypress test suite to test the feedback form and search functionality on the StacksInfo website https://stacksinfo.web.app/.
 
 ## Installation
 
