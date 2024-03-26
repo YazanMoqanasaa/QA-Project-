@@ -85,11 +85,6 @@ https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/77297918-811d-4b0
 https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/567cd72e-1f5f-48fd-b553-2339011ca715
 
 
-## Team Member 
-1. **Yazan moqanasa**
-2. **marah saadeh**
-3. **hadeel amr**
-   
 # Report:
  ## Filters:
   -The number of test cases ececuted:38
@@ -109,6 +104,14 @@ https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/567cd72e-1f5f-48f
   -The number of test cases ececuted:16
   -The number of test cases Passed: 13
   -The number of test cases Failed: 3
-  -Pass percentage: 19%
-  -Fail percentage: 81%
+  -Pass percentage: 81%
+  -Fail percentage: 19%
+  
+
+## Team Member 
+1. **Yazan moqanasa**
+2. **marah saadeh**
+3. **hadeel amr**
+   
+
 
