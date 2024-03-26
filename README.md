@@ -90,5 +90,25 @@ https://github.com/YazanMoqanasaa/QA-Project-/assets/150680289/567cd72e-1f5f-48f
 2. **marah saadeh**
 3. **hadeel amr**
    
-    
+# Report:
+ ## Filters:
+  -The number of test cases ececuted:38
+  -The number of test cases Passed: 24
+  -The number of test cases Failed: 14
+  -Pass percentage: 63%
+  -Fail percentage: 37%
+
+ ## Search:
+  -The number of test cases ececuted:36
+  -The number of test cases Passed: 20
+  -The number of test cases Failed: 16
+  -Pass percentage: 44%
+  -Fail percentage: 56%
+
+   ## Fedback:
+  -The number of test cases ececuted:16
+  -The number of test cases Passed: 13
+  -The number of test cases Failed: 3
+  -Pass percentage: 19%
+  -Fail percentage: 81%
 
